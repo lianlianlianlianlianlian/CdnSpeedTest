@@ -16,7 +16,7 @@
    在运行脚本之前，请确保安装了以下 Python 库：
 
    ```bash
-   pip install aiohttp psutil
+   pip3 install aiohttp psutil
 
 
 2. **配置参数**：
